@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-2"?>
+<content>
+	<config>
+		<title>CONFIG</title>
+		<explain>Gestione Parametri</explain>
+		<description>modulo per la configurazione del sistema</description>
+		<required></required>
+	</config>
+	<voice title="Config." option="config" task="view" position="90">
+		<menu>
+			<voice title="Configurazione Sito" option="config" task="view"></voice>
+			<voice title="Gestione Componenti" option="config" task="components"></voice>
+		</menu>
+	</voice>
+</content>

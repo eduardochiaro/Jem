@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-2"?>
+<content>
+	<config>
+		<title>MAILING</title>
+		<explain>Gestione mailing e newsletter</explain>
+		<description>modulo per le mailinglist e le newsletter</description>
+		<required></required>
+	</config>
+	<voice title="Mailing" option="mailing" task="view" position="8">
+		<menu>
+			<voice title="pannello invio" option="mailing" task="view" position="1"></voice>
+			<voice title="iscritti" option="mailing" task="users" position="2"></voice>
+			<voice title="gruppi iscritti" option="mailing" task="groups" position="3"></voice>
+			<voice title="template mailinglist" option="mailing" task="templates" position="4"></voice>
+			<voice title="mittenti" option="mailing" task="senders" position="5"></voice>
+		</menu>
+	</voice>
+	<parameters>
+	<loadelements>
+		<element>news</element>
+		<element>events</element>
+	</loadelements>
+	<mailinglist>yes</mailinglist>
+	<newsletter></newsletter>
+	</parameters>
+</content>

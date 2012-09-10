@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-2"?>
+<content>
+	<config>
+		<title>CATEGORIES</title>
+		<explain>Gestione Categorie</explain>
+		<description>modulo per le categorie generiche</description>
+		<required></required>
+	</config>
+	<named>
+		<photo>Foto</photo>
+		<video>Video</video>
+		<contacts>Contatti</contacts>
+		<events>Eventi</events>
+		<joboard>Job Opportunities</joboard>
+		<mailing_users>Utenti Newsletter</mailing_users>
+	</named>
+</content>

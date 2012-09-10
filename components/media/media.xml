@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-2"?>
+<content>
+	<config>
+		<title>MEDIA</title>
+		<explain>Gestione Media</explain>
+		<description>modulo per i media</description>
+		<required></required>
+	</config>
+	<voice title="Media" option="media" task="view" position="4">
+	
+		<menu>
+			<voice title="Gestione Categorie Foto" option="categories" task="view" append="model=photo"></voice>
+			<voice title="Gestione Foto" option="media" task="view" append="limitation=photo"></voice>
+			<voice title="Gestione Categorie Video" option="categories" task="view" append="model=video"></voice>
+			<voice title="Gestione Video" option="media" task="view" append="limitation=video"></voice>
+		</menu>
+	
+	</voice>
+	<named>
+		<photo>Foto</photo>
+		<video>Video</video>
+	</named>
+	
+	<parameters>
+		<photos>4</photos>
+		<files>2</files>
+		<slug></slug>
+	</parameters>
+</content>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-2"?>
+<content>
+	<config>
+		<title>INDEX</title>
+		<explain>Dashboard</explain>
+		<description>modulo di dashboard</description>
+		<required>true</required>
+	</config>
+	<voice title="Home" option="index" task="view" always="true" position="0"></voice>
+</content>

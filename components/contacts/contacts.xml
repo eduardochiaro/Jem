@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-2"?>
+<content>
+	<config>
+		<title>CONTACTS</title>
+		<explain>Gestione Contatti</explain>
+		<description>modulo per contatti inviati dal sito</description>
+		<required></required>
+	</config>
+	<voice title="Contacts Manager" option="contacts" task="view" append="limitation=photo" position="5">
+	
+		<menu>
+			<voice title="Gestione Risposte e Inoltro" option="contacts" task="replies"></voice>
+			<voice title="Archivio Contatti" option="contacts" task="view"></voice>
+		</menu>
+	
+	</voice>
+</content>

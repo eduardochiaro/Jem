@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="iso-8859-2"?>
+<content>
+	<config>
+		<title>SEO</title>
+		<explain>Gestione SEO</explain>
+		<description>modulo per la gestione seo</description>
+		<required></required>
+	</config>
+</content>

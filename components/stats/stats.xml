@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-2"?>
+<content>
+	<config>
+		<title>STATS</title>
+		<explain>Gestione Statistiche</explain>
+		<description>modulo per le statistiche</description>
+		<required></required>
+	</config>
+	<voice title="Statistiche" option="stats" task="view" position="93">
+		<menu>
+			<voice title="statistiche google" option="stats" task="google" position="1"></voice>
+			<voice title="statistiche contatti" option="stats" task="contacts" position="2"></voice>
+		</menu>
+	</voice>
+</content>

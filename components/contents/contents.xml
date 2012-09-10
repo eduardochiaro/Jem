@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-2"?>
+<content>
+	<config>
+		<title>CONTENTS</title>
+		<explain>Gestione Contenuti</explain>
+		<description>modulo per i contenuti</description>
+		<required></required>
+	</config>
+	<voice title="Contenuti" option="contents" task="view" position="1"></voice>
+	<parameters>
+		<photos>4</photos>
+		<files>2</files>
+		<slug></slug>
+		<contacts>true</contacts>
+		<videogallery>3</videogallery>
+		<photogallery>1</photogallery>
+	</parameters>
+</content>

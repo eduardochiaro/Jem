@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-2"?>
+<content>
+	<config>
+		<title>NEWS</title>
+		<explain>Gestione News</explain>
+		<description>modulo per delle news</description>
+		<required></required>
+	</config>
+	<voice title="News" option="news" task="view" position="1"></voice>
+	<parameters>
+		<photos>1</photos>
+		<files>0</files>
+		<slug>news/</slug>
+		<slugopen>newsopen</slugopen>
+		<videogallery>0</videogallery>
+		<photogallery>0</photogallery>
+	</parameters>
+</content>

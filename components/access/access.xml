@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-2"?>
+<content>
+	<config>
+		<title>ACCESS</title>
+		<explain>Accesso Amministrativo</explain>
+		<description>modulo di accesso amministrativo</description>
+		<required></required>
+	</config>
+	<voice title="Utenti" option="access" task="view" position="91"></voice>
+</content>

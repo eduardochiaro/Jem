@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-2"?>
+<content>
+	<config>
+		<title>JOBOARD</title>
+		<explain>Gestione Job Opportunities</explain>
+		<description>modulo per job board e elenco curriculums</description>
+		<required></required>
+	</config>
+	<voice title="Job Opportunities" option="joboard" task="view" position="6">
+		<menu>
+			<voice title="Gestione Categorie Job Opportunities" option="categories" task="view" append="model=joboard" position="1"></voice>
+			<voice title="Gestione Job Opportunities" option="joboard" task="view" position="2"></voice>
+			<voice title="Archivio CV" option="joboard" task="cv" position="3"></voice>
+		</menu>
+	</voice>
+	<parameters>
+		<slug>jobs/</slug>
+	</parameters>
+</content>

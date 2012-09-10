@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-2"?>
+<content>
+	<config>
+		<title>EVENTS</title>
+		<explain>Gestione eventi</explain>
+		<description>modulo per delle eventi con cateogrie</description>
+		<required></required>
+	</config>
+	<voice title="Eventi" option="events" task="view" position="5">
+		<menu>
+			<voice title="Gestione Categorie Eventi" option="categories" task="view" append="model=events" position="1"></voice>
+			<voice title="Gestione Eventi" option="events" task="view" position="2"></voice>
+		</menu>
+	</voice>
+	<parameters>
+		<photos>1</photos>
+		<files>0</files>
+		<slug>events/</slug>
+		<slugopen>eventopen</slugopen>
+		<videogallery>0</videogallery>
+		<photogallery>0</photogallery>
+	</parameters>
+</content>

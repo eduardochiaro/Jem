@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/website/!svn/ver/2/trunk/app/core/libraries/filters
+END
+likefilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/website/!svn/ver/2/trunk/app/core/libraries/filters/likefilter.php
+END
+comparefilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/website/!svn/ver/2/trunk/app/core/libraries/filters/comparefilter.php
+END
+concatfilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/website/!svn/ver/2/trunk/app/core/libraries/filters/concatfilter.php
+END
+betweenfilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/website/!svn/ver/2/trunk/app/core/libraries/filters/betweenfilter.php
+END
+falsefilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/website/!svn/ver/2/trunk/app/core/libraries/filters/falsefilter.php
+END
+setfilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/website/!svn/ver/2/trunk/app/core/libraries/filters/setfilter.php
+END
+filter.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/website/!svn/ver/2/trunk/app/core/libraries/filters/filter.php
+END
+truefilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/website/!svn/ver/2/trunk/app/core/libraries/filters/truefilter.php
+END
+notfilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/website/!svn/ver/2/trunk/app/core/libraries/filters/notfilter.php
+END
+orfilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/website/!svn/ver/2/trunk/app/core/libraries/filters/orfilter.php
+END
+andfilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/website/!svn/ver/2/trunk/app/core/libraries/filters/andfilter.php
+END
